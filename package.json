@@ -1,5 +1,6 @@
 {
   "name": "gryd",
+  "private": true,
   "version": "0.4.3",
   "private": true,
   "description": "Gryd development platform module",
