@@ -27,6 +27,6 @@
     "gryd-docs": "^0.1.2",
     "gryd-validator": "^0.1.3",
     "lodash": "^2.4.1",
-    "mongoose": "^4.11.1"
+    "mongoose": "^5.2.7"
   }
 }
